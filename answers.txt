@@ -11,3 +11,7 @@ Answer: Software development, for example - user testing could be analyzed more 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the two branches, while rebasing has one branch overwrite another.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Python, SQL, and Git

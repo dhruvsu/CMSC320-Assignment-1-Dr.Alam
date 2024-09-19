@@ -6,3 +6,8 @@ Answer: For version control, collaboration, and storage of projects.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Software development, for example - user testing could be analyzed more efficiently using data science.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the two branches, while rebasing has one branch overwrite another.
